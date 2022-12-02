@@ -141,7 +141,6 @@
       <td><textarea cols="22" rows="3"></textarea></td>
     </tr>
   </table>
-    </div>
     <input type="submit" value="simpan">
     <input type="reset" value="reset">   
   </body>
