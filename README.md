@@ -2,7 +2,6 @@
     <img src="kopsurat.png" width="100%" alt="kop surat ikmi" />
   </head>
   <body>
-    
     <h1 align="center" class="page-title">FORMULIR PENDAFTARAN MAHASISWA BARU</h1>
       <table border="0">
     </font>
@@ -142,6 +141,4 @@
     </tr>
   </table>
     <input type="submit" value="simpan">
-    <input type="reset" value="reset">   
-  </body>
-</html>
+    <input type="reset" value="reset">
