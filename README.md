@@ -4,7 +4,7 @@
   <body>
     
     <h1 align="center" class="page-title">FORMULIR PENDAFTARAN MAHASISWA BARU</h1>
-    <font><face="Times New Roman" size="4">
+    <font>
       <table border="0">
     </font>
     <div class="pembungkus">
