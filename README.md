@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <img src="kopsurat.png" width="100%" alt="kop surat ikmi" />
