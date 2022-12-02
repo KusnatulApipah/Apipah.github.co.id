@@ -1,5 +1,4 @@
-<html lang="en">
-  <head>
+<head>
     <img src="kopsurat.png" width="100%" alt="kop surat ikmi" />
   </head>
   <body>
