@@ -4,7 +4,6 @@
   <body>
     <h1 align="center" class="page-title">FORMULIR PENDAFTARAN MAHASISWA BARU</h1>
       <table border="0">
-    </font>
     <div class="pembungkus">
       <h2 class="judulfrom">From Pendaftaran</h2>
     </div>
